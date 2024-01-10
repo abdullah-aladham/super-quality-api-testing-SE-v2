@@ -1,7 +1,7 @@
 <h1>SuperQualityApi Testing SE v2.0</h1>
 <div>
   <p>Welcome to <code>SuperQualityApi Testing SE v2.0</code> Repo which is about testing SuperQualityApi Using java Selenium <code>v3.141.59</code><br>
-  and Eclipse ,and chrome driver and <code>TestNG</code> framework
+    and <code>TestNG</code> framework
   </p>
   <span>To review and Run Test cases in the Repo you need the following</span>
   <ul>
@@ -14,6 +14,7 @@
     <li><code>TestNg</code> Plugin is being installed on <code>Eclipse</code>IDE by use the following path <code>Help>Eclipse Marketplace...>typing in search input "TestNg"</code>-
     and then click on install ,so it is being installed.</li>
   </ul>
+  <span>If you're interested in the repo then click on <code>Watch</code> to be notified ,and if you like it click on ⭐ to give it a star so you get similar repos</span>
   <div>
     <span>Lets work together ❤️😊👇 </span>
     <div>
