@@ -1,6 +1,4 @@
-# super-quality-api-testing-SE-v2
-This is version 2.0 of super-quality-api-testing-SE Repo which is going to be done using TestNG framework for selenium v3.141.59
-<h1>SuperQualityApi Testing SE</h1>
+<h1>SuperQualityApi Testing SE v2.0</h1>
 <div>
   <p>Welcome to <code>SuperQualityApi Testing SE v2.0</code> Repo which is about testing SuperQualityApi Using java Selenium <code>v3.141.59</code><br>
   and Eclipse ,and chrome driver and <code>TestNG</code> framework
