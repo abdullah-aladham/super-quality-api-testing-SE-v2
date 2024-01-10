@@ -13,6 +13,8 @@ This is version 2.0 of super-quality-api-testing-SE Repo which is going to be do
   <li><code>Eclipse IDE</code></li>
     <li><code>Selenium v3.141.59</code> being added to project library by <code>Right click>Build Path>configure build path>libraries </code> <br>
     click on add external JARs and add <code>Selenium v3.141.59</code> JARs</li>
+    <li><code>TestNg</code> Plugin is being installed on <code>Eclipse</code>IDE by use the following path <code>Help>Eclipse Marketplace...>typing in search input "TestNg"</code>-
+    and then click on install ,so it is being installed.</li>
   </ul>
   <div>
     <span>Lets work together ❤️😊👇 </span>
